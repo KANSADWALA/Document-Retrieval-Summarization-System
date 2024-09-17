@@ -11,7 +11,7 @@ This system provides an efficient and user-friendly way to search for academic p
   
   <li><strong>Summarization:</strong> Generate concise summaries of paper abstracts</li>
   
-  <li><strong>User-friendly Interface</strong> Interactive web interface for searching documents and viewing summaries.</li>
+  <li><strong>User-friendly Interface:</strong> Interactive web interface for searching documents and viewing summaries.</li>
 </ul>
 
 ## Technologies Used
