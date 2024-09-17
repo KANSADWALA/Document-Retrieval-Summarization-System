@@ -36,6 +36,10 @@ This system provides an efficient and user-friendly way to search for academic p
   <li><strong>streamlit:</strong> An open-source app framework that allows for the creation of interactive web applications, used to build the user interface for querying and displaying search results and summaries.</li>
 </ul>
 
+## Dataset Used 
+
+Dataset: <a href="[https://www.python.org/downloads/](https://www.kaggle.com/datasets/Cornell-University/arxiv)">Arxiv </a>
+
 ## Project Structure
 
 <!DOCTYPE html>
