@@ -62,10 +62,9 @@ Dataset: <a href="https://www.kaggle.com/datasets/Cornell-University/arxiv">Arxi
   │
   ├── app.py                    # Streamlit web application
   │
-  umentation
   ├── requirements.txt          # Python package dependencies
   │
-  ├── README.md                 # Project overview and doc
+  ├── README.md                 # Project overview and documentation
   
 </code></pre>
 
