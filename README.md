@@ -36,4 +36,35 @@ This system provides an efficient and user-friendly way to search for academic p
   <li><strong>streamlit:</strong> An open-source app framework that allows for the creation of interactive web applications, used to build the user interface for querying and displaying search results and summaries.</li>
 </ul>
 
+## Project Structure
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<p>The directory structure of the project is as follows:</p>
+
+<pre><code class="bash">
+
+  Document Retrieval & Summarization System/
+  │
+  ├── kaggle.json               # Kaggle API key for dataset download
+  │
+  │──Document Retrieval & Summarization System.ipynb
+  │
+  ├── app.py                    # Streamlit web application
+  │
+  umentation
+  ├── requirements.txt          # Python package dependencies
+  │
+  ├── README.md                 # Project overview and doc
+  
+</code></pre>
+
+</body>
+</html> 
+  
