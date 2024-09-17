@@ -1,4 +1,4 @@
-# 🗃️Document-Retrieval-Summarization-System
+# 🗃️Document Retrieval & Summarization System
 
 ## Overview
 
