@@ -38,7 +38,7 @@ This system provides an efficient and user-friendly way to search for academic p
 
 ## Dataset Used 
 
-Dataset: <a href="[https://www.python.org/downloads/](https://www.kaggle.com/datasets/Cornell-University/arxiv)">Arxiv </a>
+Dataset: <a href="https://www.kaggle.com/datasets/Cornell-University/arxiv">Arxiv </a>
 
 ## Project Structure
 
